@@ -1,1 +1,1 @@
-# grossraubtiere
+# Bilderkennung Ricardo
